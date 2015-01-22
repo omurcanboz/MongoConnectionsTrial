@@ -1,0 +1,14 @@
+c:\users\angelabs6\documents\visual studio 2010\Projects\mongodenemeleri\mongodenemeleri\obj\x86\Debug\mongodenemeleri.csprojResolveAssemblyReference.cache
+c:\users\angelabs6\documents\visual studio 2010\Projects\mongodenemeleri\mongodenemeleri\obj\x86\Debug\mongodenemeleri.csproj.GenerateResource.Cache
+c:\users\angelabs6\documents\visual studio 2010\Projects\mongodenemeleri\mongodenemeleri\obj\x86\Debug\MongoDB.Form1.resources
+c:\users\angelabs6\documents\visual studio 2010\Projects\mongodenemeleri\mongodenemeleri\obj\x86\Debug\MongoDB.Properties.Resources.resources
+c:\users\angelabs6\documents\visual studio 2010\Projects\mongodenemeleri\mongodenemeleri\bin\Debug\mongodenemeleri.exe
+c:\users\angelabs6\documents\visual studio 2010\Projects\mongodenemeleri\mongodenemeleri\bin\Debug\mongodenemeleri.pdb
+c:\users\angelabs6\documents\visual studio 2010\Projects\mongodenemeleri\mongodenemeleri\bin\Debug\MongoDB.Bson.dll
+c:\users\angelabs6\documents\visual studio 2010\Projects\mongodenemeleri\mongodenemeleri\bin\Debug\MongoDB.Driver.dll
+c:\users\angelabs6\documents\visual studio 2010\Projects\mongodenemeleri\mongodenemeleri\bin\Debug\MongoDB.Bson.xml
+c:\users\angelabs6\documents\visual studio 2010\Projects\mongodenemeleri\mongodenemeleri\bin\Debug\MongoDB.Driver.xml
+c:\users\angelabs6\documents\visual studio 2010\Projects\mongodenemeleri\mongodenemeleri\obj\x86\Debug\mongodenemeleri.exe
+c:\users\angelabs6\documents\visual studio 2010\Projects\mongodenemeleri\mongodenemeleri\obj\x86\Debug\mongodenemeleri.pdb
+C:\Users\JuqqerNaut\Desktop\mongodenemeleri\mongodenemeleri\mongodenemeleri\obj\x86\Debug\mongodenemeleri.exe
+C:\Users\JuqqerNaut\Desktop\mongodenemeleri\mongodenemeleri\mongodenemeleri\obj\x86\Debug\mongodenemeleri.pdb
